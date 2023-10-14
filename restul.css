@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 100px;
+
+
+
+}
+.result-page{
+    width: 25%;
+    height: 70vh;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+/*   */
+/* .bmi-result{
+
+width: 100%;
+height: 10vh;
+background-color: black;
+
+} */
+/* .ella{
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+} */
